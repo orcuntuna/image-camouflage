@@ -2,9 +2,9 @@
 
 Python Simple Image Camouflage
 
-## Example Input/Outputs
-
 > As the picture complexity increases, the range value should also be increased.
+
+## Example Input/Outputs
 
 |File|Range|Original Image|Masked Image|
 |---|---|---|---|
